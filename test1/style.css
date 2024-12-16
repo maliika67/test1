@@ -1,0 +1,14 @@
+.block {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.active-color {
+    background-color: blueviolet;
+}
